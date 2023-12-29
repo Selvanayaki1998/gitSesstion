@@ -1,0 +1,2 @@
+This is the github sesstion
+We are going to learn about git
